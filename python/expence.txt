@@ -1,0 +1,5 @@
+Groceries,100,
+Utilities,50,
+Dinner with friends,75,
+Gasoline,40,
+Movie tickets,25,
